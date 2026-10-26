@@ -1,0 +1,9 @@
+COMBAT GODS - Fase 1 (Forge 1.20.1)
+
+1. Descarga el MDK de Forge 1.20.1 (47.x) desde files.minecraftforge.net.
+2. Copia de ese MDK las carpetas/archivos: gradle/ , gradlew , gradlew.bat
+   y pegalos dentro de esta carpeta (combatgods).
+3. Abre la carpeta en IntelliJ IDEA (Java 17) como proyecto Gradle.
+4. Ejecuta la tarea  runClient  para probar, o  build  para generar el .jar
+   (queda en build/libs/).
+5. En el juego: tecla G = menu para elegir personaje.
